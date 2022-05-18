@@ -57,7 +57,7 @@ body {
 
 .heading {
   margin: 0 0 24px;
-  font-size: 80px;
+  font-size: 100px;
   line-height: 96px;
 }
 
@@ -187,3 +187,8 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone.svg");
 }
+
+
+
+
+
